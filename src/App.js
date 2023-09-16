@@ -1,6 +1,5 @@
 import styled from "styled-components";
 import './App.css';
-import { Contact } from './components/Contact';
 import { Main } from './components/Main';
 import { Profile } from './components/Profile';
 import { Works } from './components/Works';
