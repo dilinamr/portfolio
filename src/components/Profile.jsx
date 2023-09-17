@@ -128,7 +128,7 @@ export const Profile = () => {
         </Left>
         <Right>
           {/* 3rdmodel */}
-          <Img src="/img/moon.png" />
+          <Img src="../public/img/moon.png" />
         </Right>
       </Container>
     </Section>
