@@ -10,7 +10,7 @@ const Container = styled.div`
   scroll-snap-type: y mandatory;
   scroll-behavior: smooth;
   overflow-y: auto;
-  background: url("../public/img/bg.jpeg");
+  background: url("./assets/bg.jpeg");
   scrollbar-width: none;
 
   &::-webkit-scrollbar {
@@ -21,7 +21,7 @@ const Container = styled.div`
 
 function App() {
   return (
-    <Container>
+    <Container className="abc">
       <Profile/>
       <Main/>
      

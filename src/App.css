@@ -1,12 +1,16 @@
 .we {
   margin-bottom: 0px;
    
-
+  /* background: url("./assets/moon.png"); */
+  
 
 }
+/* .abc{
+  
+  background-image: url("./assets/bg.jpeg");
+} */
 .wee {
   margin-bottom: 0px;
-
   margin-left: 50px;
   padding: 10px;
   background-color: #39057d;
@@ -41,7 +45,27 @@
 .conect:hover {
   opacity: 1.0;
 }
-
+/* .moon{
+  width: 800px;
+  height: 600px;
+  object-fit: contain;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+  animation: animate 2s infinite ease alternate;
+  @keyframes animate {
+    to {
+      transform: translateY(20px);
+    }
+  }
+  @media only screen and (max-width: 768px) {
+    width: 300px;
+    height: 300px;
+  }
+} */
 
 @media screen and (max-width: 768px) {
   .we,
