@@ -1,6 +1,0 @@
-# Set the line ending style for specific files
-*.txt text eol=lf
-*.md text eol=lf
-
-# Set the line ending style for all other files
-* text=auto
